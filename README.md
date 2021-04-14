@@ -16,7 +16,7 @@
 - 🏠 IoT enthusiast
 - 💻 Linux user
 - 🌱 Always learning new things
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Like to read/watch SciFi
 
 ---
